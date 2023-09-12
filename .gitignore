@@ -1,0 +1,6 @@
+/classes
+/.nrepl-port
+.idea/
+# Project exclude paths
+/target/
+/target/classes/
